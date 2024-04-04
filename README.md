@@ -1,9 +1,5 @@
 ### Hi there 👋
+Software Engineer with experience in Web Development and Data Analysis. I am proficient in various programming languages and frameworks, including Python, PHP, and Go. Additionally, I possess expertise in data processing and visualization tools like Kibana, Tableau, and Python libraries such as Matplotlib, Seaborn, and Plotly. Eager to learn and grow in my career, I am confident my skills and experience will be a valuable asset to your team.
 
-**coker91/coker91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Oxy Creative
-- 🌱 I’m currently learning Python, Laravel and Data Analyst
-
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning Data Visualize using Tableau and Power BI
